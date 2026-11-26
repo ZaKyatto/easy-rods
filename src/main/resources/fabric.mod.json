@@ -5,13 +5,13 @@
 	"name": "Easy Rods",
 	"description": "Server-side remote activation rods: cast a fishing bobber onto a pressure plate to hold it pressed, pull the rod from anywhere to release it. Survives bobber despawn, relogs, chunk unloads and restarts.",
 	"authors": [
-		"Zakyatto"
+		"ZaKyatto"
 	],
 	"contact": {
 		"homepage": "https://modrinth.com/mod/easy-rods",
 		"issues": "https://discord.com/users/1113484634072813719"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/easy-rods/icon.png",
 	"environment": "*",
 	"entrypoints": {

@@ -25,4 +25,4 @@ singleplayer.
 
 ## License
 
-CC0-1.0
+MIT, see [LICENSE](LICENSE).
