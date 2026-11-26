@@ -3,7 +3,8 @@
 	"package": "zakyatto.easyrods.mixin",
 	"compatibilityLevel": "JAVA_25",
 	"mixins": [
-		"ExampleMixin"
+		"BasePressurePlateBlockMixin",
+		"PressurePlateSignalMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

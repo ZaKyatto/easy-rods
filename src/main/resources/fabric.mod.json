@@ -3,14 +3,10 @@
 	"id": "easy-rods",
 	"version": "${version}",
 	"name": "Easy Rods",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Server-side remote activation rods: cast a fishing bobber onto a pressure plate to hold it pressed, pull the rod from anywhere to release it. Survives bobber despawn, relogs, chunk unloads and restarts.",
 	"authors": [
-		"Me!"
+		"Zakyatto"
 	],
-	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
-	},
 	"license": "CC0-1.0",
 	"icon": "assets/easy-rods/icon.png",
 	"environment": "*",
